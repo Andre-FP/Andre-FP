@@ -2,7 +2,7 @@
 
 
 
-- 👍 I'm 21 years old
+- 👍 I'm 22 years old
 - 👨‍🎓 Studying Eletronic and Computer Engineering at Federal University of Rio de Janeiro
 - 😎 Interests in machine-learning, programming and system development.
 - 🙂 Always open to learn new things. 
