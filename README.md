@@ -2,13 +2,14 @@
 
 
 
-- 👍 I'm 23 years old
+- 👍 I'm 24 years old
 - 👨‍🎓 Studying Eletronic and Computer Engineering at Federal University of Rio de Janeiro
+- 👨‍🎓 Currently in an Exchange Program at Polytech Grenoble, in France.
 - 😎 Interests in machine-learning, programming and system development.
 - 🙂 Always open to learn new things. 
-- 🔭 T've already worked on a cientific iniciation project at UFRJ, since march of 2021, about reproducibility in machine-learning.
-- 🔭 Currently working as a Data Scientist Intern at Twist Systems
-- 👯 I’m open to collaborate on a computer or eletronic engineering project.
+- 🔭 Research: Worked on a scientific initiation project at UFRJ, from March 2021 to August 2022, focused on Reproducibility and Data Quality in machine learning.
+- 🔭 Internships: Worked as a Data Scientist Intern at Twist Systems and as an Innovation IA Intern at TV Globo.
+- 👯 I’m open to collaborate on machine learning researches and projects.
 -    Pronouns: he, his
 
 
