@@ -29,10 +29,14 @@ Deep Learning, New Neural Networks, Time Series, Computer Vision, Reinforcement 
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![kedro](https://img.shields.io/badge/kedro-FFC900?style=for-the-badge&logo=kedro&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![googlecloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 
 
