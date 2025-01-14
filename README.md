@@ -15,13 +15,15 @@
 
 ### Interests:
 
-Machine Learning, Deep neural networks, Research, High technology.
-Deep Learning, Time Series, Computer Vision, Reinforcement Learning
+Machine Learning, Deep Neural Networks, Research, High Technology.
+
+Deep Learning, New Neural Networks, Time Series, Computer Vision, Reinforcement Learning
 
 ### Technologies:
 
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
