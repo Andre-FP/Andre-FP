@@ -8,7 +8,7 @@
 - 😎 Interests in machine-learning, programming and system development.
 - 🙂 Always open to learn new things. 
 - 🔭 Research: Worked on a scientific initiation project at UFRJ, from March 2021 to August 2022, focused on Reproducibility and Data Quality in machine learning.
-- 🔭 Internships: Worked as a Data Scientist Intern at Twist Systems and as an Innovation IA Intern at TV Globo.
+- 💼 Internships: Worked as a Data Scientist Intern at Twist Systems and as an Innovation IA Intern at TV Globo.
 - 👯 I’m open to collaborate on machine learning researches and projects.
 -    Pronouns: he, his
 
