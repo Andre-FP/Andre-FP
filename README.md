@@ -13,6 +13,12 @@
 -    Pronouns: he, his
 
 
+When I code I use:
+
+![docker](https://img.shields.io/badge/docker-#2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
